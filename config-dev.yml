@@ -1,2 +1,2 @@
 config:
-    into:"Springcloud-config,version=1"
+    into:"Springcloud-config,version=1  dev"
